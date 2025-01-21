@@ -12,6 +12,13 @@ code {
     monospace;
 }
 
+.title {
+  margin: 20px 0;
+  padding: 2px;
+  background: green;
+  color: white;
+}
+
 table {
   border-collapse: collapse;
 }
